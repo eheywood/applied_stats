@@ -1,2 +1,3 @@
-# applied_stats
-Applied Statistics Exercises
+# Applied Statistics Exercises
+
+Solutions/attempts to the Applied Statistics problem sheets.
